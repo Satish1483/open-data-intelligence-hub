@@ -145,4 +145,4 @@ Run the notebook to fill in these values:
 
 ## Conclusion
 
-After the notebook is run, the final cell generates a conclusion using actual results. It discusses whether the CNN learned the task, test accuracy, precision, recall, false-negative risk, overfitting, the effect of augmentation and dropout, and a possible future improvement such as transfer learning.
+After the notebook is run, the final cell generates a conclusion using actual results. It discusses whether the CNN learned the task, test accuracy, precision, recall, false-negative risk, overfitting, the effect of augmentation and dropout, and a possible future improvement such as transfer learning..
